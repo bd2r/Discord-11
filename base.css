@@ -12,3 +12,14 @@
 	display: flex;
 	justify-content: center;
 }
+
+/* server header transparent */
+.header-3OsQeK {
+	background-color: transparent !important;
+	border-color: transparent !important;
+}
+
+.communityInfoPill-2Mll66,
+.container-2giAcK {
+	display: none;
+}
